@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc800dc9-390f-48d0-9f8c-26cb9af678ec" name="Default" comment="" />
+    <list default="true" id="cc800dc9-390f-48d0-9f8c-26cb9af678ec" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +16,37 @@
       <file leaf-file-name="zg2uni.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zg2uni.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uni2zg.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="win2uni.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/win2uni.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="UDHR-WIN.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/UDHR-WIN.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="win2unioutput.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/win2unioutput.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="96" column="143" lean-forward="true" selection-start-line="96" selection-start-column="143" selection-end-line="96" selection-end-column="143" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".wi2uni.py.swp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.wi2uni.py.swp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="uni2zg.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uni2zg.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -40,6 +66,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -47,11 +74,15 @@
               <item name="ufc" type="b2602c69:ProjectViewProjectNode" />
               <item name="ufc" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ufc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ufc" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -110,7 +141,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1378" height="780" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25110132" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25110132" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -135,19 +166,55 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/zg2uni.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/uni2zg.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/zg2uni.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
+        <state relative-caret-position="1207">
           <caret line="71" selection-start-line="71" selection-end-line="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/uni2zg.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zg2uni.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni2zg.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zg2uni.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.wi2uni.py.swp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/UDHR-WIN.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/win2unioutput.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="96" column="143" lean-forward="true" selection-start-line="96" selection-start-column="143" selection-end-line="96" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/win2uni.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
